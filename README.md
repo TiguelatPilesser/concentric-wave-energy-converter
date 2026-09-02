@@ -1,8 +1,9 @@
 # 🌊 OWC-MC Hydro-PTO: Convertidor de Energía Ondimotriz Multicámara Concéntrico
 
-> **Licencia:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
+> **Licencia:** [Apache License 2.0](LICENSE)
+> (https://creativecommons.org/licenses/by/4.0/)  
 > **Estado:** Concepto de Innovación Abierta (Open Source / Open Hardware)  
-> **Autor:** Concepción de Diseño Abierto
+> **Autor:** Pedro Arnaldo Rodas Lugo
 
 ---
 
