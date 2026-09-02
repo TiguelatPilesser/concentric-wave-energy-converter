@@ -1,5 +1,5 @@
 # 🌊 OWC-MC Hydro-PTO: Convertidor de Energía Ondimotriz Multicámara Concéntrico
-
+![Plano Técnico del Convertidor](plano_wec.png)
 > **Licencia:** [Apache License 2.0](LICENSE)
 > (https://creativecommons.org/licenses/by/4.0/)  
 > **Estado:** Concepto de Innovación Abierta (Open Source / Open Hardware)  
